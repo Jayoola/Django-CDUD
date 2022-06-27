@@ -1,1 +1,1 @@
-# Django-CDUD
+# Django-CRUD
